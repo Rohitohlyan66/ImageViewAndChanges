@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageView And Changes</string>
+    <string name="ignore">ignore</string>
+    <string name="change_image">Change Image</string>
+</resources>
